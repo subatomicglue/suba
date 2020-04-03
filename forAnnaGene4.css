@@ -1,6 +1,15 @@
 tbody>tr>:nth-child(6){
   color:purple;
   width:750px;
+  flex: 1 1 40%;
+  overflow: auto;
+}
+
+.at-sidebar-container {
+  color:purple;
+  width:750px;
+  flex: 1 1 40%;
+  overflow: auto;
 }
 
 tbody>tr>:nth-child(8){
@@ -10,3 +19,5 @@ tbody>tr>:nth-child(8){
   text-overflow: ellipsis;
   width:100px;
 }
+
+

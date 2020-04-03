@@ -1,5 +1,4 @@
 tbody>tr>:nth-child(6){
-  color:green;
-  width:200px;
-  text-align:center;
+  color:blue;
+  width:300px;
 }

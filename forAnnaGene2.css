@@ -1,0 +1,11 @@
+tbody>tr>:nth-child(6){
+  color:blue;
+  width:300px;
+}
+
+tbody>tr>:nth-child(8){
+  color:red;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

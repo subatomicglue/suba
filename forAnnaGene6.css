@@ -5,7 +5,7 @@ tbody>tr>:nth-child(6){
   overflow: auto;
 }
 
-.at-sidebar-container {
+th, .google-visualization-table-th {
   color:purple;
   width:750px;
   flex: 1 1 40%;
